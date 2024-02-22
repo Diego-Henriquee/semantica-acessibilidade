@@ -100,6 +100,10 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  background-color: #448b72;
+}
+
 footer {
   font-size: 14px;
   line-height: 28px;
